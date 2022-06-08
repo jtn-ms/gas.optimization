@@ -1,4 +1,4 @@
-# Gas Optimizatino(Solidity)
+# Gas Optimization(Solidity)
 
 This repositery was created to collect experimental data for the gas optimization.
 
